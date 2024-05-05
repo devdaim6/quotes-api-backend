@@ -45,6 +45,22 @@ export default function getQuote(type) {
     case "nature":
       return natureQuotes[Math.floor(Math.random() * natureQuotes.length)];
     default:
-      return randomQuotes[Math.floor(Math.random() * randomQuotes.length)];
+      const allQuotes = [].concat(
+        loveQuotes,
+        codingQuotes,
+        sadQuotes,
+        inspirationQuotes,
+        motivationalQuotes,
+        successQuotes,
+        islamicQuotes,
+        philosophyQuotes,
+        friendshipQuotes,
+        humilityQuotes,
+        humourQuotes,
+        lifeLessonQuotes,
+        literaryQuotes,
+        natureQuotes
+      );
+      return allQuotes[Math.floor(Math.random() * allQuotes.length)];
   }
 }

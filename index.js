@@ -32,7 +32,6 @@ app.get("/types", (req, res) => {
         "lifeLesson",
         "literary",
         "nature",
-        "random",
       ],
     });
 });
