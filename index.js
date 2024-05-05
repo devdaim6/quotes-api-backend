@@ -1,33 +1,27 @@
-import express from "express";
-import cors from "cors";
-import getQuote from "./getQuote.js";
+const express = require("express");
+const cors = require("cors");
+const { getQuote } = require("./getQuote.js");
 
 const app = express();
+app.use(cors());
 app.use(express.json());
-app.use(
-  cors({
-    origin: "*",
-    methods: ["GET"],
-  })
-);
+app.use(express.urlencoded({ extended: true }));
 
-app.get("/", (req, res) => {
+app.get("/", (req, res, next) => {
   const { type } = req.query;
   if (!type) req.query.type = "random";
 
   const quote = getQuote(type);
   if (quote === "Invalid type") {
-    return res.status(400).json({
+    res.status(400).json({
       error: "Invalid type",
       info: "Please check endpoint /types for further information.",
     });
-  }
-
-  return res.status(200).json(quote);
+  } else res.status(200).json(quote);
 });
 
 app.get("/types", (req, res) => {
-  return res.status(200).json({
+  res.status(200).json({
     types: [
       "love",
       "coding",

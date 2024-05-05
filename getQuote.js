@@ -1,4 +1,4 @@
-import {
+const {
   loveQuotes,
   codingQuotes,
   sadQuotes,
@@ -13,9 +13,9 @@ import {
   lifeLessonQuotes,
   literaryQuotes,
   natureQuotes,
-} from "./data.js";
+} = require("./data.js");
 
-export default function getQuote(type) {
+exports.getQuote = function getQuote(type) {
   switch (type) {
     case "love":
       return loveQuotes[Math.floor(Math.random() * loveQuotes.length)];
@@ -77,4 +77,4 @@ export default function getQuote(type) {
     default:
       return "Invalid type";
   }
-}
+};

@@ -1,4 +1,4 @@
-export const loveQuotes = [
+exports.loveQuotes = [
   {
     quote: "Love is composed of a single soul inhabiting two bodies.",
     author: "Aristotle",
@@ -301,7 +301,7 @@ export const loveQuotes = [
   },
 ];
 
-export const sadQuotes = [
+exports.sadQuotes = [
   {
     quote:
       "The word 'happiness' would lose its meaning if it were not balanced by sadness.",
@@ -629,7 +629,7 @@ export const sadQuotes = [
   },
 ];
 
-export const codingQuotes = [
+exports.codingQuotes = [
   {
     author: "Albert Einstein",
     quote:
@@ -982,7 +982,7 @@ export const codingQuotes = [
   },
 ];
 
-export const inspirationQuotes = [
+exports.inspirationQuotes = [
   {
     quote: "The only way to do great work is to love what you do.",
     author: "Steve Jobs",
@@ -1269,7 +1269,7 @@ export const inspirationQuotes = [
     author: "Charles Kingsleigh",
   },
 ];
-export const humourQuotes = [
+exports.humourQuotes = [
   {
     quote: "The road to success is dotted with many tempting parking spaces.",
     author: "Will Rogers",
@@ -1517,7 +1517,7 @@ export const humourQuotes = [
   },
 ];
 
-export const philosophyQuotes = [
+exports.philosophyQuotes = [
   {
     quote: "Know thyself.",
     author: "Socrates",
@@ -1751,7 +1751,7 @@ export const philosophyQuotes = [
     author: "Edmund Burke",
   },
 ];
-export const motivationalQuotes = [
+exports.motivationalQuotes = [
   {
     quote:
       "Success is not final, failure is not fatal: It is the courage to continue that counts.",
@@ -2003,7 +2003,7 @@ export const motivationalQuotes = [
   },
 ];
 
-export const lifeLessonQuotes = [
+exports.lifeLessonQuotes = [
   {
     quote: "Life is 10% what happens to us and 90% how we react to it.",
     author: "Charles R. Swindoll",
@@ -2395,7 +2395,7 @@ export const lifeLessonQuotes = [
   },
 ];
 
-export const successQuotes = [
+exports.successQuotes = [
   {
     quote:
       "Success is not final, failure is not fatal: It is the courage to continue that counts.",
@@ -2621,7 +2621,7 @@ export const successQuotes = [
   },
 ];
 
-export const literaryQuotes = [
+exports.literaryQuotes = [
   {
     quote:
       "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
@@ -3290,7 +3290,7 @@ export const literaryQuotes = [
   },
 ];
 
-export const islamicQuotes = [
+exports.islamicQuotes = [
   {
     quote: "The best of you are those who are the best to their women.",
     source: "Prophet Muhammad (peace be upon him)",
@@ -4284,7 +4284,7 @@ export const islamicQuotes = [
     source: "Hadith - Tirmidhi",
   },
 ];
-export const humilityQuotes = [
+exports.humilityQuotes = [
   {
     quote: "Gratitude is the fairest blossom which springs from the soul.",
     source: "Henry Ward Beecher",
@@ -4625,7 +4625,7 @@ export const humilityQuotes = [
   },
 ];
 
-export const natureQuotes = [
+exports.natureQuotes = [
   {
     quote: "Nature is not a place to visit. It is home.",
     author: "Gary Snyder",
@@ -4803,7 +4803,7 @@ export const natureQuotes = [
   },
 ];
 
-export const friendshipQuotes = [
+exports.friendshipQuotes = [
   {
     author: "C.S. Lewis",
     quote:

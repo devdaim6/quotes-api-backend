@@ -7,7 +7,7 @@
     "dev": "node --watch index.js",
     "production": "node index.js"
   },
-  "type": "module",
+  "type": "commonjs",
   "keywords": [],
   "author": "",
   "license": "ISC",
