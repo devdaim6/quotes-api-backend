@@ -1,5 +1,3 @@
- 
-
 export const loveQuotes = [
   {
     quote: "Love is composed of a single soul inhabiting two bodies.",
@@ -3294,17 +3292,502 @@ export const literaryQuotes = [
 
 export const islamicQuotes = [
   {
+    quote: "The best of you are those who are the best to their women.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "Do not be people without minds of your own, saying that if others treat you well you will treat them well, and that if they do wrong you will do wrong. Instead, accustom yourselves to do good if people do good and not to do wrong (even) if they do evil.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote: "Kindness is a mark of faith, and whoever is not kind has no faith.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "Whoever does not show mercy to our young ones and respect to our elders is not one of us.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "Verily, the word of Allah teaches us, and we implicitly believe it, that for a Muslim to kill a Jew, or for him to be killed by a Jew, ensures him immediate entry into Heaven and into the august presence of Allah Almighty.",
+    source: "Haj Amin al-Husseini",
+  },
+  {
+    quote: "Allah is beautiful and He loves beauty.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "The ink of the scholar is more sacred than the blood of the martyr.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "Islam is based on five pillars: To testify that there is no deity but Allah, and Muhammad is the Messenger of Allah; to establish prayer; to give alms; to perform pilgrimage to the House; and to observe the fast of Ramadan.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "The greatest jihad is to battle your own soul, to fight the evil within yourself.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "Allah does not judge you according to your appearance and your wealth, but He looks at your hearts and looks into your deeds.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote: "Paradise lies at the feet of your mother.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote: "Do not waste water even if you were at a running stream.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "Do not kill women or children or non-combatants and do not kill old people or religious people.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "Do not hate one another, do not be jealous of one another, do not boycott one another, and do not desert one another. O Allah's worshipers! Be brothers!",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "Conduct yourself in this world, as if you are here to stay forever; prepare for eternity as if you have to die tomorrow.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "Riches are not from an abundance of worldly goods, but from a contented mind.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote: "He who is not merciful to others will not be treated mercifully.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote: "Seek knowledge from the cradle to the grave.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "When you see a person who has been given more than you in money and beauty. Look to those, who have been given less.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "The strong man is not the good wrestler; the strong man is only the one who controls himself when he is angry.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "The Prophet (peace be upon him) said: 'The best of people are those with the most excellent character.'",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "Every religion has a distinct call. The call of Islam is 'La ilaha illallah' (There is no god but Allah).",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "Be kind, for whenever kindness becomes part of something, it beautifies it. Whenever it is taken from something, it leaves it tarnished.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote: "He who has no compassion will receive none.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "A Muslim who plants a tree or sows a field, from which man, birds and animals can eat, is committing an act of charity.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "The best among you are those who have the best manners and character.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote: "Do not waste water even if you were at a running stream.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "Riches are not from an abundance of worldly goods, but from a contented mind.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "When one of you sees a bad dream let him blow three times on his left, seek refuge in Allah from the Satan three times (i.e., by saying: Audhu billahi minash-Shaitanir-Rajim) and change the side on which he was lying.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "Allah says: O son of Adam, so long as you call upon Me and ask of Me, I shall forgive you for what you have done, and I shall not mind. O son of Adam, were your sins to reach the clouds of the sky and were you then to ask forgiveness of Me, I would forgive you. O son of Adam, were you to come to Me with sins nearly as great as the earth and were you then to face Me, ascribing no partner to Me, I would bring you forgiveness nearly as great as its.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote: "He who does not thank people, does not thank Allah.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote: "The cure for ignorance is to question.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "There is no disease that Allah has created, except that He also has created its remedy.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "One who cares for widows and the poor is like those who fight in the way of Allah or those who spend their days fasting and their nights praying.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "The most perfect believer in faith is the one whose character is finest and who is kindest to his wife.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote: "The greatest of richness is the richness of the soul.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "Allah has revealed to me, that you must be humble. No one should boast over one another, and no one should oppress another.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote: "The best richness is the richness of the soul.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "The Prophet (peace be upon him) said: 'Charity is prescribed for each descendant of Adam every day the sun rises.'",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "Whoever among you wakes up in the morning secured in his dwelling, healthy in his body, having his food for the day, then it is as if the world has been gathered for him.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "The strong person is not the one who can wrestle someone else down. The strong person is the one who can control himself when he is angry.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "The person who is mostly involved in Allaah's worship is he who does not cause harm to others with his tongue or his hands.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "Do not belittle any good deed, even meeting your brother with a cheerful face.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "The best amongst you are those who have the best manners and character.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "One should not say that I am better than Jonah (i.e. Yunus) bin Matta.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote: "You will be with those whom you love.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "None of you will have faith till he wishes for his (Muslim) brother what he likes for himself.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "The strong is not the one who overcomes the people by his strength, but the strong is the one who controls himself while in anger.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "Allah does not look at your figures, nor at your attire but He looks at your hearts and accomplishments.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote: "It is not a righteousness to be negligent of your own selves.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote: "He who deceives is not of us.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "The Prophet (peace be upon him) said: 'He who believes in Allah and the Last Day should either utter good words or better keep silence.'",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "A man walking along a path felt very thirsty. Reaching a well, he descended into it, drank his fill, and came up. Then he saw a dog with its tongue hanging out, trying to lick up mud to quench its thirst. The man said, 'This dog is feeling the same thirst that I felt.' So he went down into the well again, filled his shoe with water, and gave the dog a drink. So, Allah thanked him and forgave his sins. The Prophet (peace be upon him) was asked, 'Is there a reward for us in serving animals?' He replied: 'Yes, there is a reward for serving any animate.'",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "When the month of Ramadan starts, the gates of the heaven are opened and the gates of Hell are closed and the devils are chained.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "The one who cares for an orphan and myself will be together in Paradise like this,' and he held his two fingers together to illustrate.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "The person who guides to something good has a reward similar to that of its doer.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "The world is a prison for a believer and Paradise for a non-believer.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "When you meet your enemy who is polytheist then invite him to three courses of action. If he responds to any one of these, you also accept it and withhold yourself from doing him any harm. Invite him to (accept) Islam; if he responds to you, accept it from him and desist from fighting against him.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "You do not do evil to those who do evil to you, but you deal with them with forgiveness and kindness.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "Make things easy for people and do not make them difficult, and cheer people up and do not repel them.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote: "A man will not be asked as to why he beat his wife.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote: "The best of people is one who is most beneficial to mankind.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "Allah will cover up on the Day of Resurrection the defects (faults) of the one who covers up the faults of the others in this world.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "The most complete believer in faith is the one whose character is the finest and who is the kindest to his wife.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "The most perfect man in his faith among the believers is the one whose behaviour is most excellent; and the best of you are those who are the best to their wives.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "When one of you meets his brother, he should greet him. If a tree stands between them and he wishes to pass, he should greet the tree.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "The reward of deeds depends upon the intentions and every person will get the reward according to what he has intended.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "The rights of one Muslim upon another are six: to greet each other when they meet, to respond when they are invited, to accept gifts, to wish mercy when one sneezes, to visit the sick, and to follow the funeral procession when one dies.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "The most complete believer in faith is the one whose character is the finest and who is the kindest to his wife.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "There is a polish for everything that takes away rust, and the polish for the heart is the remembrance of Allah.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "The Prophet (peace be upon him) said: 'The religion of Islam is based upon five pillars: testifying that there is no god but Allah and that Muhammad is His Messenger, performing the prayers, paying the Zakat, making the pilgrimage to the House, and fasting in Ramadan.'",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "He who believes in Allah and the Last Day should unite his ties with his kinsmen.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "He who seeks repentance (from the Lord) before the rising of the sun from the west (before the Day of Resurrection), Allah turns to him with Mercy.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "Verily, Allah does not look towards your bodies nor towards your appearances. But, he looks towards your hearts.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "You will not enter Paradise until you have faith, and you will not complete your faith till you love one another.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "A true believer does not taunt or curse or abuse or talk indecently.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "If anyone performs ablution well, then stands and prays two rak'ahs setting about them with his heart as well as his face, Paradise will be guaranteed to him.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "A man giving in charity one piece of silver in his lifetime is better for him than giving one hundred when he is dying.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote: "The best among you is he who learns the Quran and teaches it.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote: "Every soul is a guest upon the earth.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "Whoever wants to be saved from the hellfire and admitted into Paradise should die with faith in Allah and the Last Day and should treat others as he wishes to be treated.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote: "The best of people is he from whom good accrues to humanity.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "When one of you wakes up from sleep and performs ablution, he must clean his nose three times, for the Devil spends the night in the interior of his nose.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "Whoever sees a wrong, let him change it with his hand; and if he is not able to do so, then [let him change it] with his tongue; and if he is not able to do so, then with his heart — and that is the weakest of faith.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote: "A good word is charity.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "O Allah, make my love for You the most beloved thing to me, and my fear for You the most fearful thing to me, and remove from me all worldly needs and wants by instilling a passion for meeting You, and when You have given the people of the world the pleasures of their world, make the coolness of my eyes (pleasure) in worshipping You.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "A time will come when a person will not care how he gets things, whether lawful or unlawful.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "The Prophet (peace be upon him) said: 'By Him in Whose Hand my soul is! You will not enter Paradise until you believe, and you shall not believe until you love one another. May I inform you of something, if you do, you love each other? Promote greeting amongst you (by saying As-salamu alaykum to one another).'",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "The most beloved deeds to Allah are the most consistent ones, even if they are few.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "The Prophet (peace be upon him) said: 'The deen (religion) is naseehah (advice, sincerity).'",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote: "Allah loves moderation and hates extravagance and excess.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote: "Speak a good word or remain silent.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "The rights of a Muslim on the Muslims are six: to greet with salaam, to respond to the invitation, to accept the sneezer’s salaam, to visit the sick, to follow the funeral processions, to accept an invitation.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "Let him who believes in Allah and the Last Day either speak good or keep silent, and let him who believes in Allah and the Last Day be generous to his neighbour, and let him who believes in Allah and the Last Day be generous to his guest.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "You will not enter paradise until you believe, and you will not believe until you love one another. Shall I not guide you to a thing which if you do it, you will love one another? Spread the greeting of peace among yourselves.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "To acquire knowledge is binding upon all Muslims, whether male or female.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote: "Every act of kindness is a Sadaqa (charity).",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "Whoever controls his anger at the time when he has the means to act upon it, Allah will fill his heart with contentment on the Day of Resurrection.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "The Prophet (peace be upon him) said: 'The world, with all that it contains, is accursed except for the remembrance of Allah that which pleases Allah; and the religious scholars and seekers of knowledge.'",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "A good and true Muslim is one whom other Muslims are safe from his tongue and his hand.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "A man will follow the religion of his friend; so each one should consider whom he makes his friend.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "He who has in his heart the weight of a mustard seed of pride shall not enter Paradise.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
+    quote:
+      "Allah has ninety-nine names, one hundred minus one, and whoever believes in their meanings and acts accordingly, will enter Paradise.",
+    source: "Prophet Muhammad (peace be upon him)",
+  },
+  {
     quote: "Allah is with those who restrain themselves.",
     source: "Quran 16:128",
   },
   {
     quote: "And He found you lost and guided [you].",
     source: "Quran 93:7",
-  },
-  {
-    quote:
-      "Be kind, for whenever kindness becomes part of something, it beautifies it. Whenever it is taken from something, it leaves it tarnished.",
-    source: "Hadith - Bukhari & Muslim",
   },
   {
     quote: "The best of you are those who are best to their women.",
@@ -3323,11 +3806,6 @@ export const islamicQuotes = [
     quote:
       "The greatest Jihad is to battle your own soul, to fight the evil within yourself.",
     source: "Hadith",
-  },
-  {
-    quote:
-      "The strong person is not the one who can wrestle someone else down. The strong person is the one who can control himself when he is angry.",
-    source: "Hadith - Bukhari & Muslim",
   },
   {
     quote: "And He is with you wherever you are.",
@@ -3372,11 +3850,6 @@ export const islamicQuotes = [
   },
   {
     quote:
-      "The most perfect believer in faith is the one whose character is finest and who is kindest to his wife.",
-    source: "Hadith",
-  },
-  {
-    quote:
       "Riches does not mean, having a great amount of property, but riches is self-contentment.",
     source: "Hadith - Bukhari",
   },
@@ -3404,10 +3877,6 @@ export const islamicQuotes = [
     source: "Hadith",
   },
   {
-    quote: "Kindness is a mark of faith, and whoever is not kind has no faith.",
-    source: "Hadith - Muslim",
-  },
-  {
     quote:
       "To seek knowledge is a sacred duty, it is obligatory on every Muslim, male and female.",
     source: "Hadith",
@@ -3416,10 +3885,6 @@ export const islamicQuotes = [
     quote:
       "When you see a person who has been given more than you in money and beauty, look to those, who have been given less.",
     source: "Hadith - Muslim",
-  },
-  {
-    quote: "The best of you are those who are the best to their women.",
-    source: "Hadith",
   },
   {
     quote:
@@ -3445,18 +3910,8 @@ export const islamicQuotes = [
     source: "Hadith - Bukhari & Muslim",
   },
   {
-    quote:
-      "The most beloved of deeds to Allah are the most consistent of them, even if they are few.",
-    source: "Hadith",
-  },
-  {
     quote: "A person who is not thankful to people is not thankful to Allah.",
     source: "Hadith - Tirmidhi",
-  },
-  {
-    quote:
-      "A true Muslim is thankful to Allah in prosperity, and resigned to His will in adversity.",
-    source: "Hadith - Muslim",
   },
   {
     quote:
@@ -3465,17 +3920,7 @@ export const islamicQuotes = [
   },
   {
     quote:
-      "The best among you are those who have the best manners and character.",
-    source: "Hadith",
-  },
-  {
-    quote:
       "If you want to talk to Allah, Pray. If you want Allah to talk to you, Read Quran.",
-    source: "Hadith",
-  },
-  {
-    quote:
-      "When Allah tests you it is never to destroy you. When He removes something in your possession it is only in order to empty your hands for an even greater gift.",
     source: "Hadith",
   },
   {
@@ -3499,10 +3944,6 @@ export const islamicQuotes = [
   {
     quote:
       "Be like a diamond: precious and rare, not like a stone that is found everywhere.",
-    source: "Hadith",
-  },
-  {
-    quote: "The cure for ignorance is to question.",
     source: "Hadith",
   },
   {
@@ -3589,10 +4030,6 @@ export const islamicQuotes = [
     source: "Unknown",
   },
   {
-    quote: "Allah does not burden a soul beyond that it can bear.",
-    source: "Quran 2:286",
-  },
-  {
     quote:
       "Our Lord, grant us from Yourself mercy and prepare for us from our affair right guidance.",
     source: "Quran 18:10",
@@ -3620,11 +4057,6 @@ export const islamicQuotes = [
     quote:
       "When a man dies, his deeds come to an end except for three things: Sadaqah Jariyah (ceaseless charity); knowledge which is beneficial; or a virtuous descendant who prays for him (the deceased).",
     source: "Hadith - Muslim",
-  },
-  {
-    quote:
-      "The best among you are those who have the best manners and character.",
-    source: "Hadith",
   },
   {
     quote: "A good word is charity.",
@@ -3696,10 +4128,6 @@ export const islamicQuotes = [
     source: "Hadith - Bukhari & Muslim",
   },
   {
-    quote: "Kindness is a mark of faith, and whoever is not kind has no faith.",
-    source: "Hadith - Muslim",
-  },
-  {
     quote: "Do not backbite one another.",
     source: "Quran 49:12",
   },
@@ -3716,10 +4144,6 @@ export const islamicQuotes = [
     quote:
       "The Prophet (peace be upon him) said: 'When a man dies, his deeds come to an end except for three things: Sadaqah Jariyah (ceaseless charity); a knowledge which is beneficial, or a virtuous descendant who prays for him (for the deceased).'",
     source: "Hadith - Muslim",
-  },
-  {
-    quote: "Do not lose hope, nor be sad.",
-    source: "Quran 3:139",
   },
   {
     quote:
@@ -3763,11 +4187,6 @@ export const islamicQuotes = [
   },
   {
     quote:
-      "The best of people are those that bring most benefit to the rest of mankind.",
-    source: "Hadith - Daraqutni",
-  },
-  {
-    quote:
       "Allah does not look at your appearance or your possessions; but He looks at your heart and your deeds.",
     source: "Hadith - Muslim",
   },
@@ -3789,26 +4208,6 @@ export const islamicQuotes = [
     quote:
       "None of you truly believes until he loves for his brother what he loves for himself.",
     source: "Hadith - Bukhari & Muslim",
-  },
-  {
-    quote:
-      "The best of people are those that bring most benefit to the rest of mankind.",
-    source: "Hadith - Daraqutni",
-  },
-  {
-    quote:
-      "None of you truly believes until he loves for his brother what he loves for himself.",
-    source: "Hadith - Bukhari & Muslim",
-  },
-  {
-    quote:
-      "The best of people are those that bring most benefit to the rest of mankind.",
-    source: "Hadith - Daraqutni",
-  },
-  {
-    quote:
-      "The best of people are those that bring most benefit to the rest of mankind.",
-    source: "Hadith - Daraqutni",
   },
   {
     quote:
@@ -3836,17 +4235,8 @@ export const islamicQuotes = [
   },
   {
     quote:
-      "A true Muslim is thankful to Allah in prosperity, and resigned to His will in adversity.",
-    source: "Hadith - Muslim",
-  },
-  {
-    quote:
       "None of you truly believes until he loves for his brother what he loves for himself.",
     source: "Hadith - Bukhari & Muslim",
-  },
-  {
-    quote: "Good deeds protect from evil fates.",
-    source: "Hadith",
   },
   {
     quote:
@@ -3854,17 +4244,7 @@ export const islamicQuotes = [
     source: "Hadith - Bukhari & Muslim",
   },
   {
-    quote:
-      "If you want to talk to Allah, Pray. If you want Allah to talk to you, Read Quran.",
-    source: "Hadith",
-  },
-  {
     quote: "Kindness is a mark of faith, and whoever is not kind has no faith.",
-    source: "Hadith - Muslim",
-  },
-  {
-    quote:
-      "When you see a person who has been given more than you in money and beauty. Then look to those, who have been given less.",
     source: "Hadith - Muslim",
   },
   {
@@ -3873,17 +4253,8 @@ export const islamicQuotes = [
   },
   {
     quote:
-      "The one who guides to something good has a reward similar to the one doing it.",
-    source: "Hadith",
-  },
-  {
-    quote:
       "Whoever seeks forgiveness for the believing men and believing women, Allah will write for him a good deed for each believing man and believing woman.",
     source: "Hadith",
-  },
-  {
-    quote: "Allah does not burden a soul beyond that it can bear.",
-    source: "Quran 2:286",
   },
   {
     quote: "Allah does not love the aggressors.",
@@ -3891,26 +4262,12 @@ export const islamicQuotes = [
   },
   {
     quote:
-      "But perhaps you hate a thing and it is good for you; and perhaps you love a thing and it is bad for you. And Allah Knows, while you know not.",
-    source: "Quran 2:216",
-  },
-  {
-    quote:
       "Do not speak much without mentioning Allah, for too much speech without mentioning Allah hardens the heart.",
-    source: "Hadith",
-  },
-  {
-    quote:
-      "The best among you are those who have the best manners and character.",
     source: "Hadith",
   },
   {
     quote: "The reward of deeds depends upon the intentions.",
     source: "Hadith - Bukhari & Muslim",
-  },
-  {
-    quote: "A man's true wealth is the good he does in this world.",
-    source: "Hadith",
   },
   {
     quote:
@@ -3919,25 +4276,14 @@ export const islamicQuotes = [
   },
   {
     quote:
-      "O son of Adam, so long as you call upon Me and ask of Me, I shall forgive you for what you have done, and I shall not mind.",
-    source: "Hadith - Muslim",
-  },
-  {
-    quote:
       "Do not belittle any act of kindness, even that of greeting your brother with a smile.",
     source: "Hadith - Muslim",
-  },
-  {
-    quote:
-      "If Allah wants to do good to somebody, He afflicts him with trials.",
-    source: "Hadith - Bukhari",
   },
   {
     quote: "When Allah loves a servant, He tests him.",
     source: "Hadith - Tirmidhi",
   },
 ];
-
 export const humilityQuotes = [
   {
     quote: "Gratitude is the fairest blossom which springs from the soul.",
