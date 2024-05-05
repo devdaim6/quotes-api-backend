@@ -14,7 +14,29 @@ app.get("/", (req, res) => {
   res.status(200).json(quote);
 });
 
+app.get("/types", (req, res) => {
+  res
+    .status(200)
+    .json({
+      types: [
+        "love",
+        "coding",
+        "sad",
+        "motivational",
+        "success",
+        "islamic",
+        "philosophy",
+        "friendship",
+        "humility",
+        "humour",
+        "lifeLesson",
+        "literary",
+        "nature",
+        "random",
+      ],
+    });
+});
+
 app.listen(5000, () => {
   console.log("Server is running on port 3000");
 });
-
