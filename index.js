@@ -49,7 +49,7 @@ app.listen(5000, () => {
 });
 
 export const config = {
-  runtime: "edge",
+  runtime: "nodejs",
 };
 
 export default app;
